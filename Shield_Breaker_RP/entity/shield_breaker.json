@@ -1,0 +1,20 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "sb:shield_breaker",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/shield_breaker"
+      },
+      "geometry": {
+        "default": "geometry.full_block"
+      },
+      "render_controllers": [
+        "controller.render.shield_breaker"
+      ]
+    }
+  }
+}
