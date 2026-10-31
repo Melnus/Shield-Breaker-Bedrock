@@ -1,0 +1,39 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sb:shield_breaker_100"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "SRS",
+      "CRC",
+      "GRG"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:charcoal"
+      },
+      "G": {
+        "item": "minecraft:gravel"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      },
+      "S": {
+        "item": "minecraft:sand"
+      }
+    },
+    "unlock": [
+      {
+        "context": "AlwaysUnlocked"
+      }
+    ],
+    "result": {
+      "item": "sb:shield_breaker_100",
+      "count": 1
+    }
+  }
+}
