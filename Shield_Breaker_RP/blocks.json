@@ -1,0 +1,11 @@
+{
+  "sb:shield_breaker_30": {
+    "sound": "stone"
+  },
+  "sb:shield_breaker_50": {
+    "sound": "stone"
+  },
+  "sb:shield_breaker_100": {
+    "sound": "stone"
+  }
+}

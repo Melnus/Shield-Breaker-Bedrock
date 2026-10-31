@@ -1,0 +1,31 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "The Shieldbreaker[RP/005]",
+    "description": "TNT blocks developed for digging tunnels",
+    "uuid": "2733cd47-b65e-4879-bf20-23089bd23f28",
+    "version": [
+      0,
+      0,
+      5
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources",
+      "type": "resources",
+      "uuid": "0c642eb1-2291-408c-a5b5-ad89e5ced059",
+      "version": [
+        0,
+        0,
+        5
+      ]
+    }
+  ],
+  "metadata": {}
+}
