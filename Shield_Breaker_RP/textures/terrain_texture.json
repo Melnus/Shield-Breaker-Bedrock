@@ -1,0 +1,11 @@
+{
+  "resource_pack_name": "shield_breaker",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "shield_breaker": {
+      "textures": "textures/blocks/shield_breaker"
+    }
+  }
+}
