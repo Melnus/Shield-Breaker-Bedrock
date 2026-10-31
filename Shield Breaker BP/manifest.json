@@ -1,0 +1,57 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "The Shieldbreaker[BP/005]",
+    "description": "TNT blocks developed for digging tunnels",
+    "uuid": "a66243e2-dfbc-47ef-b8a8-e4d593cf9495",
+    "version": [
+      0,
+      0,
+      5
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      40
+    ]
+  },
+  "modules": [
+    {
+      "description": "Shield Breaker Script",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "cb22a884-37ea-406f-b105-14c314bc2517",
+      "version": [
+        0,
+        0,
+        5
+      ],
+      "entry": "scripts/main.js"
+    },
+    {
+      "description": "Block Definitions",
+      "type": "data",
+      "uuid": "913b9208-0864-4105-9b20-dde1dd166dd8",
+      "version": [
+        0,
+        0,
+        5
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.9.0"
+    },
+    {
+      "uuid": "2733cd47-b65e-4879-bf20-23089bd23f28",
+      "version": [
+        0,
+        0,
+        5
+      ]
+    }
+  ],
+  "metadata": {}
+}
