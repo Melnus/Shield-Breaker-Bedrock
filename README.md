@@ -1,5 +1,7 @@
 # Shield Breaker
 
+[![](https://img.youtube.com/vi/b9A9MYZ2oa0/maxresdefault.jpg)](https://youtu.be/b9A9MYZ2oa0)
+
 Adds tunnel-digging TNT inspired by shield tunneling machines. It comes in three lengths: 30m, 50m, and 100m, and digs a straight 3×3 tunnel. Ores and wood are not destroyed, and no torches are placed, so you'll need to finish the tunnel by hand. Blocks destroyed by the tunnel do not drop items.
 
 ## How to Use
